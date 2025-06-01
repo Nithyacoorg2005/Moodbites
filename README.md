@@ -38,4 +38,4 @@ MoodBites/
 
 
 
-Let me know if you’d like a version that includes a [feature GIF](f), [live preview link](f), or [user stories section](f).
+

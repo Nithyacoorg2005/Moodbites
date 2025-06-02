@@ -1,4 +1,6 @@
-    🍽️ MoodBites
+ MoodBites
+
+Online view :https://moodbitesnithya.netlify.app/
 
  MoodBites  is a personalized food and mood tracking platform that helps users log meals, emotions, and discover patterns between what they eat and how they feel.
 

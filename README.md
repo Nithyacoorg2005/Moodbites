@@ -4,9 +4,9 @@ Online view :https://moodbitesnithya.netlify.app/
 
  MoodBites  is a personalized food and mood tracking platform that helps users log meals, emotions, and discover patterns between what they eat and how they feel.
 
----
 
-   ⚙️ Tech Stack
+
+   Tech Stack
 
 -  Frontend:  Vite + React + TypeScript + Tailwind CSS  
 -  Backend:  Node.js + Express (inside `/server`)  
@@ -14,13 +14,13 @@ Online view :https://moodbitesnithya.netlify.app/
 -  Bundler:  Vite  
 -  Package Manager:  npm  
 
----
 
-   🚀 Setup & Usage
 
-      🧩 Clone & Install
+   Setup & Usage
 
-```bash
+      Clone & Install
+
+
 npm run dev
     Runs on http://localhost:5173
 cd server
